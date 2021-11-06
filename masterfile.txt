@@ -1,2 +1,3 @@
 welcome to the master code file.
 master file has been changed at develop branch.
+Feature2 changes have been made here.
