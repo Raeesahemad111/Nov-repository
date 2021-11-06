@@ -1,7 +1,7 @@
 welcome to the master code file.
 master file has been changed at develop branch.
-
+<<<<<<< HEAD
 feature1 changes.
-
+=======
 Feature2 changes have been made here.
-
+>>>>>>> feature2
